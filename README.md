@@ -1,3 +1,9 @@
+<h1 align="center">
+	<br>
+	<img src="http://mohamedradwan.com/wp-content/uploads/2017/08/Cover-small-1.png" height="auto" width="708" alt="DevOpsThoughts Logo">
+	<br>
+</h1>
+
 # TFS 2010 Enterprise Installation and Configuration Video Guide
 
 <div id="WikiContent" class="WikiContent">
@@ -15,7 +21,6 @@ It will walk through installation and&nbsp;configuration of&nbsp;physical enviro
 <p><span style="color:#ff0000"><strong>Updated&nbsp;June&nbsp;1 2012</strong>, all videos available now&nbsp;separate&nbsp;on the&nbsp;</span><span style="color:#000080"><a title="YouTube Channel" href="http://www.youtube.com/user/MRadwanMSF" target="_blank" style="color:#ff0000">YouTube</a></span><span style="color:#ff0000">,
  so you can just find the video for any step by the name of the step.</span></p>
 <p><span style="color:#000000"><a title="YouTube" href="http://www.youtube.com/user/MRadwanMSF" target="_blank">Go to YouTube Channel here</a></span></p>
-<p><img src="http://mohamedradwan.com/wp-content/uploads/2017/08/Cover-small-1.png" alt="Cover" width="400" height="524"></p>
 <p>&nbsp;</p>
 <p><br>
 This guide include the following features:</p>
